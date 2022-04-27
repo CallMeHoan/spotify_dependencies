@@ -1,0 +1,16 @@
+.rules{
+    padding: 30px;
+    display: flex;
+    font-family: Poppins;
+    flex-direction: column;
+    .title{
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .small__title{
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
